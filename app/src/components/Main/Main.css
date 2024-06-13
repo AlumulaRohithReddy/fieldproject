@@ -1,0 +1,75 @@
+.logo {
+    width: 80px;
+    height: 70px;
+  }
+  #navItem1 {
+    color: #ffffff;
+    font-family: "Roboto";
+  }
+  #navItem2 {
+    color: #ffffff;
+    font-family: "Roboto";
+  }
+  #navItem3 {
+    color: #ffffff;
+    font-family: "Roboto";
+  }
+  #navItem4 {
+    color: #ffffff;
+    font-family: "Roboto";
+  }
+  .navbar-nav  {
+    margin-left: auto;
+  }
+  .banner-section-bg-container {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/331/442/small/watercolor-peach-brown-background-for-paper-design-vector.jpg");
+    height: 100vh;
+    background-size: cover;
+  }
+  .heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+  }
+  .h-2 {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 300;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+  }
+
+  .footer-section {
+    background-color: #0d2436;
+  }
+  .footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }

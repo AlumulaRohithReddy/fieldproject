@@ -1,0 +1,55 @@
+.heading{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-start;
+}
+.card1{
+    background-color: white;
+    height: 400px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.li{
+    height: 60px;
+    width: 200px;
+    background-color: black;
+    margin: 5px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+.head3{
+    color: Black;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+    align-self: flex-start;
+}
+.main2{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/331/442/small/watercolor-peach-brown-background-for-paper-design-vector.jpg");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    padding: 5px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-grow:auto;
+    overflow-y: auto;
+}
+.b1{
+    background-color:black;
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    border-radius:20px ;
+    max-height: 40px;
+    max-width: 160px;
+    align-self: flex-end;
+   }

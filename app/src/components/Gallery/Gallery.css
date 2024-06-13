@@ -1,0 +1,48 @@
+.c2{
+    background-image: url("https://res.cloudinary.com/dohmv9cgy/image/upload/f_auto,q_auto/q0ksvrftuz3vm6ymm1t4");
+    
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-size: cover;
+}
+.c3{
+    background-image: url("https://res.cloudinary.com/dohmv9cgy/image/upload/f_auto,q_auto/gutlnsdultzlvtjtmo0g");
+    
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-size: cover;
+}
+.c4{
+    background-image: url("https://res.cloudinary.com/dohmv9cgy/image/upload/f_auto,q_auto/ecixiqu2fqhl1nnboxqh");
+   
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-size: cover;
+}
+.b{
+    color: black;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: solid;
+}
+
+.b2{
+    background-color:black;
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    flex-grow: auto;
+    width: 400px;
+    text-align: center;
+    
+    align-self: center;
+}

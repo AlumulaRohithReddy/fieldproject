@@ -1,0 +1,47 @@
+.d {
+    background-image: url("https://media.istockphoto.com/id/1364143636/vector/pink-watercolor-background.jpg?s=612x612&w=0&k=20&c=_lY8wQAA-Xcx0UQdVo5RRA14R1IUFvlhHbYWcocEF2M=");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+body{
+    margin: 0px;
+}
+.card {
+    background-color: transparent;
+    padding: 20px;
+    border-style:none;
+    border-radius: 15px;
+}
+.error{
+    font-family: "Roboto";
+    color:red;
+    font-size: 20px;
+    font-weight: normal;
+}
+.head{
+    font-family: "Roboto";
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+.l{
+    font-family: "Roboto";
+    color: black;
+    font-size: 30px;
+}
+.img{
+    height: auto;
+    width: 300px;
+    border-radius: 20px;
+}
+.btn{
+    background-color:transparent;
+    border-style:none;
+    border-radius: 15px;
+    color:black;
+    font-family: "Roboto";
+    font-size: 20px;
+    width: 100px;
+    margin: 10px;
+}
